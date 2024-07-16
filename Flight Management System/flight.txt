@@ -1,0 +1,19 @@
+|TICKET INFORMATION:
+
+Name: Hamza Aftab
+Phone: 03125268008
+Address: westridge,rwp cantt
+Passport Number: 
+Origin: LAHORE
+Destination: ISLAMABAD
+Food: Vegetarian
+Number of Seats: 2
+Class: Business
+Date of departure: 18052023
+Time: 4.00 PM
+Ticket: HF581
+Bill(in pakistani rupees): 52854/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: NO
